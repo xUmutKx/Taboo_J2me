@@ -1,0 +1,9 @@
+-injars TurkceTabu.jar
+-outjars TurkceTabu_verified.jar
+-libraryjars midp.jar
+-microedition
+-keep public class * { *; }
+-dontobfuscate
+-dontoptimize
+-dontshrink
+-dontwarn

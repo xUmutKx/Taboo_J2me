@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+MIDlet-1: Tabu,logo.png,tabu.TabuMIDlet
+MIDlet-Name: Turkce Tabu
+MIDlet-Vendor: UmutK
+MIDlet-Version: 2.0
+MIDlet-Icon: logo.png
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.0
+Created-By: 21.0.10 (Termux)
+
