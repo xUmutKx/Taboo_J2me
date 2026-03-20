@@ -14,5 +14,6 @@ public class TabuMIDlet extends MIDlet {
     }
     public void pauseApp() {}
     public void destroyApp(boolean u) {}
+    public Display getDisplay() { return display; }
     public void exit() { destroyApp(true); notifyDestroyed(); }
 }
